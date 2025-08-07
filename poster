@@ -1,0 +1,15 @@
+ Digital Poster Submission
+Project Name:
+> SmartHealth - AI-Powered Health Assistant
+
+ Team Members
+
+| Name           | Role            | Poster Tool Used |
+|----------------|------------------|------------------|
+| Mamatha Perla  | UI Designer      | Canva            |
+| chaitanya anga  | Backend Developer| Figma            |
+| manasa majji    | Frontend Dev     | Canva            |
+
+ Poster Directory
+
+Each poster is located in the `/posters/{poster web interface}/` folder
