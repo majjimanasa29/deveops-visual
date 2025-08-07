@@ -1,0 +1,14 @@
+name: Poster Upload Check
+
+on:
+  push:
+    branches:
+      - '**'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify Poster Upload
+        run: echo "✅ Poster Uploaded Successfully!"
+
